@@ -1,0 +1,31 @@
+<VMM>
+    <playNoteOff>0</playNoteOff>
+    <playAll>0</playAll>
+    <mirror>1</mirror>
+    <mirrorX>0</mirrorX>
+    <mirrorY>0</mirrorY>
+    <mirrorZ>1</mirrorZ>
+    <OSCsetMatCap>8</OSCsetMatCap>
+    <OSCsetTrack>1</OSCsetTrack>
+    <localSlices>1</localSlices>
+    <localCopies>8</localCopies>
+    <globalCopies>1</globalCopies>
+    <mirrorDistance>0.000000000</mirrorDistance>
+    <setGlobalRotX>0.000000000</setGlobalRotX>
+    <setGlobalRotY>0.000000000</setGlobalRotY>
+    <setGlobalRotZ>0.000000000</setGlobalRotZ>
+    <setGlobalTransX>0.000000000</setGlobalTransX>
+    <setGlobalTransY>0.000000000</setGlobalTransY>
+    <setGlobalTransZ>-7.199999809</setGlobalTransZ>
+    <setLocalRotX>0.000000000</setLocalRotX>
+    <setLocalRotY>0.000000000</setLocalRotY>
+    <setLocalRotZ>45.000000000</setLocalRotZ>
+    <setLocalTransX>0.000000000</setLocalTransX>
+    <setLocalTransY>-16.000000000</setLocalTransY>
+    <setLocalTransZ>0.000000000</setLocalTransZ>
+    <setObjRotX>45.000000000</setObjRotX>
+    <setObjRotY>-45.000000000</setObjRotY>
+    <setObjRotZ>90.000000000</setObjRotZ>
+    <localScale>6.500000000</localScale>
+    <globalScale>15.000000000</globalScale>
+</VMM>

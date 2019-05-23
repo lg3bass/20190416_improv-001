@@ -1,0 +1,7 @@
+.DS_Store
+
+
+
+#stuff I dont want on git (mostly large files)
+20190416_improv001\ Project/Backup/
+HOUDINI/render/

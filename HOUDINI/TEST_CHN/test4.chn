@@ -1,0 +1,30 @@
+ACHN 2
+start = 0
+end = 5.0
+/obj/null {
+    channel null {
+	  segment { 
+		  options = {	 untie  is os ia oa }
+		  length = 1 
+		  value = 0 30 
+		  slope = nan nan 
+		  accel = nan nan
+		  expr = linear()
+	  }
+	  segment { 
+		  options = {	 untie  is os ia oa }
+		  length = 1 
+		  value = 30 0 
+		  slope = nan nan 
+		  accel = nan nan
+		  expr = linear()
+	  }
+	  segment { 
+		  options = {	 untie  is os ia oa }
+		  length = 0 
+		  slope = nan nan 
+		  accel = nan nan 
+		  expr = linear()
+	  }
+	}
+}

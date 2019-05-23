@@ -1,0 +1,21 @@
+ACHN 2
+start = 0
+end = 3.8333333333333335
+/obj/chopnet1/channel2 {
+    channel value0z {
+      lefttype = extend
+      righttype = extend
+      flags = 0
+      segment { options = {	 untie  is os ia oa }
+
+	 length = 0.96666666666666667 value = 0 30 slope = nan nan accel = 10.005190011213871 10.005190011213871
+	 expr = cubic() }
+      segment { options = {	 untie  is os ia oa }
+
+	 length = 2.8666666666666667 value = 30 0 slope = nan nan accel = 10.045550578228804 10.045550578228804
+	 expr = cubic() }
+      segment { options = {	 untie  is os ia oa }
+
+	 length = 0 slope = nan nan accel = nan nan expr = cubic() }
+    }
+  }

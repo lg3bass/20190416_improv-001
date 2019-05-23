@@ -1,0 +1,12 @@
+<page>
+    <name>P1</name>
+    <tlChannels>
+        <tlChannels-num>1</tlChannels-num>
+        <channel-0>
+            <name>VMM</name>
+            <type>Buttons</type>
+            <rangeH>50.000000000</rangeH>
+            <rangeL>-50.000000000</rangeL>
+        </channel-0>
+    </tlChannels>
+</page>
